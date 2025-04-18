@@ -9,7 +9,7 @@ const allProducts = [
     category: 'Hydration',
     description: 'Stay hydrated and help the planet with a sustainable water bottle.',
     price: '$15.99',
-    image: 'https://images.unsplash.com/photo-1581182127439-bbf7d5732e8a',
+    image: 'https://5.imimg.com/data5/RJ/JY/GW/SELLER-28771910/tw2-500x500.jpg',
     icon: <Leaf />,
   },
   {
@@ -17,7 +17,7 @@ const allProducts = [
     category: 'Accessories',
     description: 'Perfect for grocery shopping or as a daily carry-all, made from organic cotton.',
     price: '$12.99',
-    image: 'https://images.unsplash.com/photo-1571061181581-57df0c1ab803',
+    image: 'https://5.imimg.com/data5/ANDROID/Default/2022/12/HK/NA/MX/27003032/product-jpeg-500x500.jpg',
     icon: <ShoppingBag />,
   },
   {
@@ -25,7 +25,7 @@ const allProducts = [
     category: 'Home',
     description: 'Eco-friendly trash bags that degrade naturally without harming the environment.',
     price: '$8.99',
-    image: 'https://images.unsplash.com/photo-1551918594-9b03d1f6f165',
+    image: 'https://m.media-amazon.com/images/I/710tklmJbWL.jpg',
     icon: <Recycle />,
   },
   {
@@ -33,7 +33,7 @@ const allProducts = [
     category: 'Electronics',
     description: 'Charge your devices on-the-go with a solar-powered bank, perfect for outdoor activities.',
     price: '$29.99',
-    image: 'https://images.unsplash.com/photo-1563007307-e7b2b8ed9e0d',
+    image: 'https://m.media-amazon.com/images/I/41QxuA0f3hL.SR290,290.jpg',
     icon: <Phone />,
   },
   {
@@ -41,7 +41,7 @@ const allProducts = [
     category: 'Stationery',
     description: 'Sustainable and recyclable notebooks for eco-conscious students and professionals.',
     price: '$6.49',
-    image: 'https://images.unsplash.com/photo-1568733809-f63b09d2b17b',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQol832XtkeyX6Ckj-FkURBlqGJPi1ExcqiWA&s',
     icon: <Recycle />,
   },
   {
@@ -49,7 +49,7 @@ const allProducts = [
     category: 'Accessories',
     description: 'Protect your phone with a compostable and biodegradable case made from plant-based materials.',
     price: '$18.99',
-    image: 'https://images.unsplash.com/photo-1605207882258-b60b4b933a44',
+    image: 'https://image.made-in-china.com/2f0j00FrbofTQtsCkq/Biodegradable-Phone-Case-Eco-Friendly-Color-Mobile-Phone-Case-for-iPhone-15-PRO-Max-Huawei-Mate-60-PRO-Cases-Degradable-Mobile-Cell-Phone-Covers.webp',
     icon: <Phone />,
   },
   {
@@ -57,7 +57,7 @@ const allProducts = [
     category: 'Personal Care',
     description: 'A sustainable alternative to plastic toothbrushes, made from bamboo.',
     price: '$4.99',
-    image: 'https://images.unsplash.com/photo-1571681663927-c5b98f728597',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRucUF48torTlgWSd2qdcqWXzJ8cYUd0mmU6A&s',
     icon: <Leaf />,
   },
   {
@@ -65,7 +65,7 @@ const allProducts = [
     category: 'Accessories',
     description: 'Say goodbye to plastic bags with these stylish and reusable grocery bags.',
     price: '$9.99',
-    image: 'https://images.unsplash.com/photo-1603432749389-b9caadca07f2',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVcTG1kEN9CDM1uxTNUnT3OxGSG5knQVjuA&s',
     icon: <ShoppingBag />,
   },
   {
@@ -73,7 +73,7 @@ const allProducts = [
     category: 'Sports',
     description: 'Made from biodegradable materials, this mat provides comfort and sustainability during your practice.',
     price: '$24.99',
-    image: 'https://images.unsplash.com/photo-1564518093-24ba5c4ff963',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAcbAW8Tbue2lDp7RO72Wr-mwJWfEd2lbPsA&s',
     icon: <Leaf />,
   },
   {
@@ -81,7 +81,7 @@ const allProducts = [
     category: 'Accessories',
     description: 'Made with biodegradable materials, this phone case is both eco-friendly and stylish.',
     price: '$15.49',
-    image: 'https://images.unsplash.com/photo-1583303991179-b57d981edbf1',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgVu43mZ6p6oZ9cXwPd5TmCYsQxxwclA3A-A&s://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sztenchen.com%2Fpla-eco-friendly-degradable-phone-case&psig=AOvVaw3mWSUcbXhub8zXofOySghZ&ust=1745087039108000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiG6Jua4owDFQAAAAAdAAAAABAE://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sztenchen.com%2Fpla-eco-friendly-degradable-phone-case&psig=AOvVaw3mWSUcbXhub8zXofOySghZ&ust=1745087039108000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiG6Jua4owDFQAAAAAdAAAAABAE',
     icon: <Phone />,
   },
 ];
@@ -164,5 +164,5 @@ export default function Products() {
         )}
       </div>
     </motion.div>
-  );
+  );
 }
